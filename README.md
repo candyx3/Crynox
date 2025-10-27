@@ -90,15 +90,11 @@ We welcome partnerships, research collaborations, and ethical hackers who want t
 
 ## ⚡ ASCII Logo
 
-/ / || | | || \ | || _ | / |
-| | _ | | | || | || |) | |/| |
-| | ) | || || |\ || /| | | |
-_|/ ___/ || _||| || |_|
-
 
 ---
 
 <p align="center">
   <b>© 2025 Crynox Cybersecurity — Defend. Detect. Respond.</b>
 </p>
+
 
